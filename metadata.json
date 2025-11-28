@@ -1,0 +1,8 @@
+{
+  "name": "SentinelGuard",
+  "description": "AI-Based Intrusion & Behaviour Anomaly Detector SaaS Prototype",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
